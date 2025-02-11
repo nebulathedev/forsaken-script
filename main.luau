@@ -121,9 +121,9 @@ local function initialize()
 		Name = "Applesaken",
 		Theme = "Default",
 		LoadingTitle = "Apple Ware",
-		LoadingSubtitle = "can fart hub please collab already",
+		LoadingSubtitle = "can r3fl  please collab already",
 		Icon = "apple",
-		Link = "https://github.com/SilkScripts/AppleStuff/get out of here",
+		Link = "https://git.com/SilkScripts/AppleStuff/get out of here",
 
 		DisableBuildWarnings = true,
 		DisableRayfieldPrompts = true,
@@ -131,7 +131,7 @@ local function initialize()
 		KeySystem = false,
 		KeySettings = {
 			Title = "Appleware Key or sum",
-			Subtitle = "FART HUB PLEASE COLLABBB",
+			Subtitle = "r3fl  PLEASE COLLABBB",
 			Note = "Join Discord Server To Get Key | https://discord.gg/fGFV3r9yKC",
 			FileName = "Applewarething",
 			SaveKey = true,
