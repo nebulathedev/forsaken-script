@@ -118,25 +118,25 @@ local guestaim = false
 
 local function initialize()
     local GUI = Rayfield:CreateWindow({
-		Name = "Applesaken",
+		Name = "r3flsaken",
 		Theme = "Default",
-		LoadingTitle = "Apple Ware",
+		LoadingTitle = "r3fl Ware",
 		LoadingSubtitle = "can r3fl  please collab already",
-		Icon = "apple",
-		Link = "https://git.com/SilkScripts/AppleStuff/get out of here",
+		Icon = "r3fl",
+		Link = "https://git.com/SilkScripts/r3flStuff/get out of here",
 
 		DisableBuildWarnings = true,
 		DisableRayfieldPrompts = true,
 
 		KeySystem = false,
 		KeySettings = {
-			Title = "Appleware Key or sum",
+			Title = "r3flware Key or sum",
 			Subtitle = "r3fl  PLEASE COLLABBB",
 			Note = "Join Discord Server To Get Key | https://discord.gg/fGFV3r9yKC",
-			FileName = "Applewarething",
+			FileName = "r3flwarething",
 			SaveKey = true,
 			GrabKeyFromSite = false,
-			Key = {"Apple"}, 
+			Key = {"r3fl"}, 
 		},
 	})
     
@@ -1577,7 +1577,7 @@ local function initialize()
     
     
     Rayfield:Notify{Title = "JOIN THE DISCORD", Content = "plz https://discord.gg/fGFV3r9yKC", Duration = 60, Image = "clipboard"}
-    Rayfield:Notify{Title = "Welcome to Apple Ware", Content = "Feel free to post any bugs or suggestions in the server :)", Duration = 10, Image = "Apple"}
+    Rayfield:Notify{Title = "Welcome to r3fl Ware", Content = "Feel free to post any bugs or suggestions in the server :)", Duration = 10, Image = "r3fl"}
    
     
     
