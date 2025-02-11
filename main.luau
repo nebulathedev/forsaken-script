@@ -122,7 +122,7 @@ local function initialize()
 		Theme = "Default",
 		LoadingTitle = "r3flWare",
 		LoadingSubtitle = "encrypt your shit next time!",
-		Icon = "r3fl",
+		Icon = "apple",
 		Link = "https://pastebin.com/raw/ZWhfG1FN",
 
 		DisableBuildWarnings = true,
