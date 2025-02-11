@@ -118,21 +118,21 @@ local guestaim = false
 
 local function initialize()
     local GUI = Rayfield:CreateWindow({
-		Name = "r3flsaken",
+		Name = "skidded by r3fl loool",
 		Theme = "Default",
-		LoadingTitle = "r3fl Ware",
-		LoadingSubtitle = "can r3fl  please collab already",
+		LoadingTitle = "r3flWare",
+		LoadingSubtitle = "encrypt your shit next time!",
 		Icon = "r3fl",
-		Link = "https://git.com/SilkScripts/r3flStuff/get out of here",
+		Link = "https://pastebin.com/raw/ZWhfG1FN",
 
 		DisableBuildWarnings = true,
 		DisableRayfieldPrompts = true,
 
 		KeySystem = false,
 		KeySettings = {
-			Title = "r3flware Key or sum",
+			Title = "KEY IS "r3fl"",
 			Subtitle = "r3fl  PLEASE COLLABBB",
-			Note = "Join Discord Server To Get Key | https://discord.gg/fGFV3r9yKC",
+			Note = "SKIDDED BY R3FL, ENCRYPT YOUR SHIT",
 			FileName = "r3flwarething",
 			SaveKey = true,
 			GrabKeyFromSite = false,
@@ -1576,8 +1576,8 @@ local function initialize()
     
     
     
-    Rayfield:Notify{Title = "JOIN THE DISCORD", Content = "plz https://discord.gg/fGFV3r9yKC", Duration = 60, Image = "clipboard"}
-    Rayfield:Notify{Title = "Welcome to r3fl Ware", Content = "Feel free to post any bugs or suggestions in the server :)", Duration = 10, Image = "r3fl"}
+    Rayfield:Notify{Title = "SKIDDED BY R3FL", Content = "ENCRYPT YOUR SHIT", Duration = 1000, Image = "clipboard"}
+    Rayfield:Notify{Title = "SKIDDED BY R3FL", Content = "ENCRYPT YOUR SHIT", Duration = 1000, Image = "r3fl"}
    
     
     
